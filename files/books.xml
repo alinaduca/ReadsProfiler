@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<XmlLibs>
+	<Lib>
+		<Carti>
+			<Carte Titlu="Chira Chiralina" Autor="Panait Istrati" AnulAparitiei="1923" ISBN="9789735047061" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="romance" URL="https://humanitas.ro/assets/pdf/Panait-Istrati_Chira-Chiralina.pdf" />
+			<Carte Titlu="Zece negri mititei" Autor="Agatha Christie" AnulAparitiei="1939" ISBN="9786063331046" rating="10" NrVoturi="5" gen="ficțiune" subgenuri="mister" URL="https://raileanumariana.files.wordpress.com/2014/12/agatha-christie-zece-negri-mititei-pdf.pdf" />
+			<Carte Titlu="Maitreyi" Autor="Mircea Eliade" AnulAparitiei="1933" ISBN="9789731046198" rating="9.6" NrVoturi="1" gen="ficțiune" subgenuri="romance,aventură,experiență,bildungsroman" URL="http://singerei.educ.md/wp-content/uploads/sites/412/2017/11/Eliade__Mircea_-_Maitreyi.pdf" />
+			<Carte Titlu="Domnișoara Christina" Autor="Mircea Eliade" AnulAparitiei="1936" ISBN="9789735020026" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="fantastic" URL="https://bgrmihailsturdza.files.wordpress.com/2014/03/mirceaeliade-domnisoarachristina.pdf" />
+			<Carte Titlu="Adela" Autor="Garabet Ibrăileanu" AnulAparitiei="1933" ISBN="9789731858036" rating="8" NrVoturi="1" gen="ficțiune" subgenuri="romance" URL="http://www.sharetmoinesti.ro/assets/adela---garabet-ibraileanu.pdf" />
+			<Carte Titlu="Crima din Orient Express" Autor="Agatha Christie" AnulAparitiei="1934" ISBN="9786063321832" rating="9.633334" NrVoturi="3" gen="ficțiune" subgenuri="mister" URL="https://raileanumariana.files.wordpress.com/2013/04/agatha_christie-crima_din_orient_expres_10__.pdf" />
+			<Carte Titlu="Ion" Autor="Liviu Rebreanu" AnulAparitiei="1920" ISBN="9975743749" rating="7.7" NrVoturi="3" gen="ficțiune" subgenuri="realism" URL="https://bgrmihailsturdza.files.wordpress.com/2014/02/rebreanu-liviu-ion-i-cartea.pdf" />
+			<Carte Titlu="Enigma Otiliei" Autor="George Călinescu" AnulAparitiei="1938" ISBN="9975743994" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="realism,romance" URL="https://amortek.files.wordpress.com/2010/03/calinescu-george-enigma-otiliei-cartea.pdf" />
+			<Carte Titlu="Pădurea spânzuraților" Autor="Liviu Rebreanu" AnulAparitiei="1922" ISBN="9789732333310" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="istoric,război" URL="https://ferestre.weebly.com/uploads/1/6/9/5/1695755/_padurea_spanzuratilor_-_liviu_rebreanu.pdf" />
+			<Carte Titlu="Aventurile lui Tom Sawyer" Autor="Mark Twain" AnulAparitiei="1876" ISBN="9786067063028" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="aventură,folclor" URL="https://scorilos.files.wordpress.com/2011/04/aventurile-lui-tom-sawyer-mark-twain.pdf" />
+			<Carte Titlu="Nuntă în cer" Autor="Mircea Eliade" AnulAparitiei="1938" ISBN="9789731044538" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="romance" URL="https://101books.club/pdf/182032980-Mircea-Eliade-Nunta-in-cer.pdf" />
+			<Carte Titlu="Contele de Monte Cristo, vol. I" Autor="Alexandre Dumas" AnulAparitiei="1844" ISBN="9789736591839" rating="9.7" NrVoturi="1" gen="ficțiune" subgenuri="romance,istoric,aventură" URL="https://tubeclip.files.wordpress.com/2013/11/alexandre-dumas-contele-de-monte-cristo-vol-1.pdf" />
+			<Carte Titlu="Contele de Monte Cristo, vol. II" Autor="Alexandre Dumas" AnulAparitiei="1844" ISBN="9786063304057" rating="9.4" NrVoturi="1" gen="ficțiune" subgenuri="romance,istoric,aventură" URL="https://tubeclip.files.wordpress.com/2013/11/alexandre-dumas-contele-de-monte-cristo-vol-2.pdf" />
+			<Carte Titlu="Contele de Monte Cristo, vol. III" Autor="Alexandre Dumas" AnulAparitiei="1844" ISBN="9786063304064" rating="9.2" NrVoturi="1" gen="ficțiune" subgenuri="romance,istoric,aventură" URL="https://tubeclip.files.wordpress.com/2013/11/alexandre-dumas-contele-de-monte-cristo-vol-3.pdf" />
+			<Carte Titlu="Poezii" Autor="Mihai Eminescu" AnulAparitiei="1883" ISBN="6426092301100" rating="-1" NrVoturi="0" gen="poezie" subgenuri="elegie" URL="https://scoalagimnazialaciurea.ro/wp-content/uploads/red/carte_Poezii_M_Eminescu.pdf" />
+			<Carte Titlu="Poezii" Autor="Tudor Arghezi" AnulAparitiei="1927" ISBN="9786067100587" rating="-1" NrVoturi="0" gen="poezie" subgenuri="artă poetică" URL="https://cantemird.files.wordpress.com/2008/03/tudor-arghezi-poezii.pdf" />
+			<Carte Titlu="Poezii" Autor="Ion Barbu" AnulAparitiei="1930" ISBN="9789731045054" rating="-1" NrVoturi="0" gen="poezie" subgenuri="artă poetică,poem" URL="http://colegiulasachi.uv.ro/scolara/barbu_ion_joc_secund.pdf" />
+			<Carte Titlu="Poezii" Autor="Nichita Stănescu" AnulAparitiei="1955" ISBN="9786065797147" rating="-1" NrVoturi="0" gen="poezie" subgenuri="elegie" URL="http://colegiulasachi.uv.ro/scolara/stanescu_nechita_poezii.pdf" />
+			<Carte Titlu="Iona" Autor="Marin Sorescu" AnulAparitiei="1968" ISBN="9733804576" rating="-1" NrVoturi="0" gen="dramă" subgenuri="tragedie" URL="http://ctt.ro/wp-content/uploads/2012/11/Marin-Sorescu-Iona.pdf" />
+			<Carte Titlu="La răscruce de vânturi" Autor="Emily Brontë" AnulAparitiei="1847" ISBN="9786063341847" rating="9.733334" NrVoturi="3" gen="ficțiune" subgenuri="romance" URL=" https://101books.club/pdf/Emily_Bronte-La_rascruce_de_vanturi.pdf" />
+			<Carte Titlu="După ce ne-am întâlnit" Autor="Anna Todd" AnulAparitiei="2014" ISBN="9786064006363" rating="8.3" NrVoturi="1" gen="ficțiune" subgenuri="romance" URL=" https://101books.club/pdf/1467910896_Anna_Todd_-_Dupa_ce_ne-am_intalnit.pdf" />
+			<Carte Titlu="Sub aceeași stea" Autor="John Green" AnulAparitiei="2012" ISBN="978973707743" rating="9.3" NrVoturi="2" gen="ficțiune" subgenuri="romance" URL="https://101books.club/pdf/John_Green-Sub_aceeasi_stea.pdf" />
+			<Carte Titlu="Romanul adolescentului miop" Autor="Mircea Eliade" AnulAparitiei="1989" ISBN="9786060570714" rating="7.5" NrVoturi="2" gen="non-ficțiune" subgenuri="autobiografie,biografie" URL="https://vorbeste-romaneste.ro/web/vrcontent/opere/romanul-adolescentului-miop-2.pdf" />
+			<Carte Titlu="Toate pânzele sus!" Autor="Radu Tudoran" AnulAparitiei="1954" ISBN="9786060867258" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="aventură" URL="https://101books.club/pdf/Radu_Tudoran_-Toate_Panzele_Sus.pdf" />
+			<Carte Titlu="Mara" Autor="Ioan Slavici" AnulAparitiei="1894" ISBN="9786068271194" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="realism" URL="http://www.sharetmoinesti.ro/assets/mara---ioan-slavici.pdf" />
+			<Carte Titlu="Ultima noapte de dragoste, întâia noapte de război" Autor="Camil Petrescu" AnulAparitiei="1930" ISBN="9786068391076" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="psihologic,romance,război" URL="https://cantemird.files.wordpress.com/2008/03/ultima-noapte-de-dragoste-intiia-noapte-de-razboi-camil-petrescu.pdf" />
+			<Carte Titlu="Povestea lui Harap-Alb" Autor="Ion Creangă" AnulAparitiei="1892" ISBN="9786063318443" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="basm" URL="https://oradeliteratura.files.wordpress.com/2009/06/ion-creanga-povestea-lui-harap-alb.pdf" />
+			<Carte Titlu="O scrisoare pierdută" Autor="Ion Luca Caragiale" AnulAparitiei="1884" ISBN="9786068271910" rating="-1" NrVoturi="0" gen="dramă" subgenuri="comedie" URL="https://ccdph.ro/wp/wp-content/uploads/2020/04/I.-L-Caragiale-O-scrisoare-pierdut%C4%83.pdf" />
+			<Carte Titlu="Hanul Ancuței" Autor="Mihail Sadoveanu" AnulAparitiei="1928" ISBN="9786069335512" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="povestire în ramă,istoric" URL="https://oradeliteratura.files.wordpress.com/2020/11/hanul-ancutei-pdf.pdf" />
+			<Carte Titlu="Dumbrava minunată" Autor="Mihail Sadoveanu" AnulAparitiei="1926" ISBN="9786069335529" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="fantezie" URL="http://scoala7timisoara.ro/proiecte/sacitim/e2/dumbrav2.pdf" />
+			<Carte Titlu="Frații Jderi" Autor="Mihail Sadoveanu" AnulAparitiei="1935" ISBN="9786069335543" rating="7.1" NrVoturi="2" gen="ficțiune" subgenuri="istoric" URL="http://ltcaracuseniivechi.educ.md/wp-content/uploads/sites/412/2017/11/Mihail_Sadoveanu_-_Fratii_Jderi_-_Vol1_VP-1.pdf" />
+			<Carte Titlu="Pianistul" Autor="Władysław Szpilman" AnulAparitiei="1946" ISBN="9735007762" rating="-1" NrVoturi="0" gen="non-ficțiune" subgenuri="memorii,autobiografie" URL="https://101books.club/pdf/_Pianistul-pdf.pdf" />
+			<Carte Titlu="Alexandru Lăpușneanu" Autor="Constantin Negruzzi" AnulAparitiei="1840" ISBN="9786068668055" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="istoric" URL="http://www.scoalaluceafarul.ro/carti/Alexandru_Lapusneanu.pdf" />
+			<Carte Titlu="Patul lui Procust" Autor="Camil Petrescu" AnulAparitiei="1933" ISBN="9786068391113" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="psihologic" URL="https://scorilos.files.wordpress.com/2012/08/camil-petrescu-patul-lui-procust.pdf" />
+			<Carte Titlu="Alchimistul" Autor="Paulo Coelho" AnulAparitiei="1988" ISBN="9735005247" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="fantastic,aventură" URL="https://cartigratis.com/files/pdf/descarca-paulo-coelho-alchimistul.pdf" />
+			<Carte Titlu="Amintiri din copilărie" Autor="Ion Creangă" AnulAparitiei="9786063318443" ISBN="9789735043513" rating="9.8" NrVoturi="1" gen="non-ficțiune" subgenuri="biografie,memorii" URL="https://humanitas.ro/assets/pdf/Ion-Creanga_Amintiri-din-copilarie.pdf" />
+			<Carte Titlu="Doamna Dalloway" Autor="Virginia Woolf" AnulAparitiei="1925" ISBN="9789736895135" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="psihologic" URL="https://humanitas.ro/assets/pdf/Virginia-Woolf_Doamna-Dalloway.pdf" />
+			<Carte Titlu="Valurile" Autor="Virginia Woolf" AnulAparitiei="1931" ISBN="9789736894657" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="experimental" URL="https://humanitas.ro/assets/pdf/Virginia-Woolf_Valurile.pdf" />
+			<Carte Titlu="Pe drumuri de munte" Autor="Calistrat Hogaș" AnulAparitiei="1914" ISBN="9789731973364" rating="-1" NrVoturi="0" gen="non-ficțiune" subgenuri="jurnal,autobiografie" URL="http://www.scoalaluceafarul.ro/carti/drumuri_de_munte.pdf" />
+			<Carte Titlu="Banchetul" Autor="Platon" AnulAparitiei="352 î. Hr." ISBN="789735033156" rating="-1" NrVoturi="0" gen="non-ficțiune" subgenuri="filozofie" URL="https://humanitas.ro/assets/pdf/Platon_Banchetul.pdf" />
+			<Carte Titlu="Portretul lui Dorian Gray" Autor="Oscar Wilde" AnulAparitiei="1890" ISBN="9789736898563" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="fantastic" URL="https://humanitas.ro/assets/pdf/Oscar-Wilde_Portretul-lui-Dorian-Gray.pdf" />
+			<Carte Titlu="De profundis" Autor="Oscar Wilde" AnulAparitiei="1905" ISBN="9789735046576" rating="-1" NrVoturi="0" gen="non-ficțiune" subgenuri="autobiografie" URL="https://humanitas.ro/assets/pdf/Oscar-Wilde_De-profundis.pdf" />
+			<Carte Titlu="Mândrie și prejudecată" Autor="Jane Austen" AnulAparitiei="1813" ISBN="5948489356513" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="romance" URL="https://ia600407.us.archive.org/23/items/LiteraturaUniversala-Mix001/Jane%20Austen%20-%20Mandrie%20si%20prejudecata.pdf" />
+			<Carte Titlu="Un veac de singurătate" Autor="Gabriel García Márquez" AnulAparitiei="1967" ISBN="9786066098403" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="fantezie" URL=" https://101books.club/pdf/Gabriel_Garcia_Marquez_-_Un_veac_de_singuratate.pdf" />
+			<Carte Titlu="Dragostea în vremea holerei" Autor="Gabriel García Márquez" AnulAparitiei="1985" ISBN="9786066096157" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="romance,fantezie" URL=" https://101books.club/pdf/Garcia-Marquez-Gabriel-Dragostea-in-Vremea-Holerei.pdf" />
+			<Carte Titlu="Hoțul de cărți" Autor="Markus Zusak" AnulAparitiei="2005" ISBN="9786066096133" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="istoric,bildungsroman" URL=" https://101books.club/pdf/Markus_Zusak-Hotul_de_carti.pdf" />
+			<Carte Titlu="Doamna Bovary" Autor="Gustave Flaubert" AnulAparitiei="1856" ISBN="9735763672" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="realism" URL=" https://101books.club/pdf/Doamna_Bovary_-_Gustave_Flaubert.pdf" />
+			<Carte Titlu="Anna Karenina" Autor="Lev Tolstoi" AnulAparitiei="1877" ISBN="9789731048178" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="romance,realism" URL=" https://101books.club/pdf/Lev_Tolstoi-Anna_Karenina,_vol1.pdf" />
+			<Carte Titlu="Tristan și Isolda" Autor="Joseph Bédier" AnulAparitiei="1905" ISBN="9786069446416" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="romance,legendă" URL="https://101books.club/pdf/Joseph_Bedier_-Tristan_si_Isolda.pdf" />
+			<Carte Titlu="Marele Gatsby" Autor="Francis Scott Fitzgeral" AnulAparitiei="1925" ISBN="9789736896835" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="modern" URL="https://humanitas.ro/assets/pdf/F-Scott-Fitzgerald_Marele-Gatsby.pdf" />
+			<Carte Titlu="Blândețea nopții" Autor="Francis Scott Fitzgeral" AnulAparitiei="1934" ISBN="9789736896811" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="modern" URL="https://humanitas.ro/assets/pdf/F-Scott-Fitzgerald_Blandetea-noptii.pdf" />
+			<Carte Titlu="Fata căpitanului" Autor="Aleksandr Pușkin" AnulAparitiei="1836" ISBN="9739349080" rating="7.4" NrVoturi="1" gen="ficțiune" subgenuri="istoric" URL="https://101books.club/pdf/A.S._Puskin_-_Fata_Capitanului.pdf" />
+			<Carte Titlu="Inimi cicatrizate" Autor="Max Blecher" AnulAparitiei="2016" ISBN="9789735057879" rating="-1" NrVoturi="0" gen="non-ficțiune" subgenuri="autobiografie" URL="https://humanitas.ro/assets/pdf/M-Blecher_Inimi-cicatrizate.pdf" />
+			<Carte Titlu="Oamenii fericiți citesc și beau cafea" Autor="Agnès Martin-Lugand" AnulAparitiei="2013" ISBN="9786067196405" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="romance" URL=" https://101books.club/pdf/Agnes-Martin-Lugand-Oamenii-Fericiti-Citesc-Si-Beau-Cafea.pdf" />
+			<Carte Titlu="Moara cu noroc" Autor="Ioan Slavici" AnulAparitiei="1881" ISBN="9786063318467" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="psihologic" URL="http://www.scoalaluceafarul.ro/carti/moara_cu_noroc.pdf" />
+			<Carte Titlu="Idiotul" Autor="Feodor Mihailovici Dostoievski" AnulAparitiei="1869" ISBN="9786063340840" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="psihologic" URL="https://101books.club/pdf/Feodor_Mihailovici_Dostoievski_-_Idiotul.pdf" />
+			<Carte Titlu="Concert din muzică de Bach" Autor="Hortensia Papadat-Bengescu" AnulAparitiei="1927" ISBN="9786069088913" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="realism" URL="http://colegiulasachi.uv.ro/scolara/papadat-bengescu_hortensia_concert_din_muzica_de_bach.pdf" />
+			<Carte Titlu="Împăratul muştelor" Autor="William Golding" AnulAparitiei="1954" ISBN="9786067792225" rating="-1" NrVoturi="0" gen="ficțiune" subgenuri="alegorie,aventură" URL="https://101books.club/pdf/william-golding-imparatul-mustelor.pdf" />
+		</Carti>
+		<Autori>
+			<Autor Nume="Feodor Mihailovici Dostoievski" gen="ficțiune" subgenuri="psihologic" />
+			<Autor Nume="Ioan Slavici" gen="ficțiune" subgenuri="realism,psihologic" />
+			<Autor Nume="William Golding" gen="ficțiune" subgenuri="alegorie,aventură" />
+			<Autor Nume="Hortensia Papadat-Bengescu" gen="ficțiune" subgenuri="realism" />
+			<Autor Nume="Agnès Martin-Lugand" gen="ficțiune" subgenuri="romance" />
+			<Autor Nume="Max Blecher" gen="non-ficțiune" subgenuri="autobiografie" />
+			<Autor Nume="Aleksandr Pușkin" gen="ficțiune" subgenuri="istoric" />
+			<Autor Nume="Francis Scott Fitzgeral" gen="ficțiune" subgenuri="modern" />
+			<Autor Nume="Joseph Bédier" gen="ficțiune" subgenuri="romance,legendă" />
+			<Autor Nume="Lev Tolstoi" gen="ficțiune" subgenuri="romance,realism" />
+			<Autor Nume="Gustave Flaubert" gen="ficțiune" subgenuri="realism" />
+			<Autor Nume="Markus Zusak" gen="ficțiune" subgenuri="istoric,bildungsroman" />
+			<Autor Nume="Gabriel García Márquez" gen="ficțiune" subgenuri="romance,fantezie" />
+			<Autor Nume="Jane Austen" gen="ficțiune" subgenuri="romance" />
+			<Autor Nume="Oscar Wilde" gen="non-ficțiune,ficțiune" subgenuri="autobiografie,fantastic" />
+			<Autor Nume="Platon" gen="non-ficțiune" subgenuri="filozofie" />
+			<Autor Nume="Calistrat Hogaș" gen="non-ficțiune" subgenuri="jurnal,autobiografie" />
+			<Autor Nume="Virginia Woolf" gen="ficțiune" subgenuri="experimental,psihologic" />
+			<Autor Nume="Ion Creangă" gen="ficțiune,non-ficțiune" subgenuri="basm,biografie,memorii" />
+			<Autor Nume="Paulo Coelho" gen="ficțiune" subgenuri="fantastic,aventură" />
+			<Autor Nume="Camil Petrescu" gen="ficțiune" subgenuri="psihologic,romance,război" />
+			<Autor Nume="Constantin Negruzzi" gen="ficțiune" subgenuri="istoric" />
+			<Autor Nume="Władysław Szpilman" gen="non-ficțiune" subgenuri="memorii,autobiografie" />
+			<Autor Nume="Mihail Sadoveanu" gen="ficțiune" subgenuri="povestire în ramă,istoric,fantezie" />
+			<Autor Nume="Ion Luca Caragiale" gen="dramă" subgenuri="comedie" />
+			<Autor Nume="Radu Tudoran" gen="ficțiune" subgenuri="aventură" />
+			<Autor Nume="Mircea Eliade" gen="ficțiune,non-ficțiune" subgenuri="romance,aventură,experiență,bildungsroman,fantastic,autobiografie,biografie" />
+			<Autor Nume="John Green" gen="ficțiune" subgenuri="romance" />
+			<Autor Nume="Anna Todd" gen="ficțiune" subgenuri="romance" />
+			<Autor Nume="Emily Brontë" gen="ficțiune" subgenuri="romance" />
+			<Autor Nume="Marin Sorescu" gen="dramă" subgenuri="tragedie" />
+			<Autor Nume="Nichita Stănescu" gen="poezie" subgenuri="elegie" />
+			<Autor Nume="Ion Barbu" gen="poezie" subgenuri="artă poetică,poem" />
+			<Autor Nume="Tudor Arghezi" gen="poezie" subgenuri="artă poetică" />
+			<Autor Nume="Mihai Eminescu" gen="poezie" subgenuri="elegie" />
+			<Autor Nume="Alexandre Dumas" gen="ficțiune" subgenuri="romance,istoric,aventură" />
+			<Autor Nume="Mark Twain" gen="ficțiune" subgenuri="aventură,folclor" />
+			<Autor Nume="Liviu Rebreanu" gen="ficțiune" subgenuri="istoric,război,realism" />
+			<Autor Nume="George Călinescu" gen="ficțiune" subgenuri="realism,romance" />
+			<Autor Nume="Agatha Christie" gen="ficțiune" subgenuri="mister" />
+			<Autor Nume="Garabet Ibrăileanu" gen="ficțiune" subgenuri="romance" />
+			<Autor Nume="Panait Istrati" gen="ficțiune" subgenuri="romance" />
+		</Autori>
+		<Genuri>
+			<Gen nume="ficțiune">
+				<Subgen nume="romance" />
+				<Subgen nume="mister" />
+				<Subgen nume="psihologic" />
+				<Subgen nume="realism" />
+				<Subgen nume="modern" />
+				<Subgen nume="alegorie" />
+				<Subgen nume="aventură" />
+				<Subgen nume="istoric" />
+				<Subgen nume="legendă" />
+				<Subgen nume="bildungsroman" />
+				<Subgen nume="fantezie" />
+				<Subgen nume="fantastic" />
+				<Subgen nume="experimental" />
+				<Subgen nume="basm" />
+				<Subgen nume="război" />
+				<Subgen nume="povestire în ramă" />
+				<Subgen nume="experiență" />
+				<Subgen nume="folclor" />
+			</Gen>
+			<Gen nume="non-ficțiune">
+				<Subgen nume="autobiografie" />
+				<Subgen nume="memorii" />
+				<Subgen nume="biografie" />
+				<Subgen nume="filozofie" />
+				<Subgen nume="jurnal" />
+			</Gen>
+			<Gen nume="poezie">
+				<Subgen nume="elegie" />
+				<Subgen nume="artă poetică" />
+				<Subgen nume="poem" />
+			</Gen>
+			<Gen nume="dramă">
+				<Subgen nume="comedie" />
+				<Subgen nume="tragedie" />
+			</Gen>
+		</Genuri>
+	</Lib>
+</XmlLibs>

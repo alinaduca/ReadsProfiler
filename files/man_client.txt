@@ -1,0 +1,19 @@
+
+login : <username>
+search-title : <titlu>
+search-author : <autor>
+search-year : <an>
+search-genre : <gen>
+search-subgenre : <subgen>
+search-isbn : <ISBN>
+search-rating : <rating>
+eval-book : <titlu>_<autor>_<nota>
+download-book : <titlu>_<autor>
+info-author : <autor>
+info-book : <titlu>_<autor>
+recommend-books
+info-genres
+logout
+quit
+
+For help : "man"

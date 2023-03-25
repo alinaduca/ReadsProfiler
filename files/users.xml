@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<XmlUsers>
+	<UsersDb>
+		<Users>
+			<User Username="duca.alina">
+				<Book Titlu="Zece negri mititei" Autor="Agatha Christie" Gen="ficțiune" Subgen="mister" An="1939" nota="10" />
+				<Book Titlu="Crima din Orient Express" Autor="Agatha Christie" Gen="ficțiune" Subgen="mister" An="1934" nota="9.7" />
+				<Book Titlu="Romanul adolescentului miop" Autor="Mircea Eliade" Gen="non-ficțiune" Subgen="autobiografie,biografie" An="1989" nota="7.5" />
+				<Cautare title="Chira Chiralina" />
+				<Cautare year="1930" />
+				<Cautare genre="non-ficțiune" />
+				<Cautare subgenre="memorii" />
+				<Cautare rating="10" />
+				<Cautare rating="9.8" />
+			</User>
+			<User Username="maria">
+				<Cautare title="Adela" />
+				<Cautare author="Panait Istrati" />
+				<Cautare isbn="9786068391076" />
+				<Cautare genre="poezie" />
+				<Cautare author="Mircea Eliade" />
+				<Download Titlu="Maitreyi" Autor="Mircea Eliade" Gen="ficțiune" Subgen="romance,aventură,experiență,bildungsroman" An="1933" />
+				<Cautare title="Sub aceeași stea" />
+				<Book Titlu="Sub aceeași stea" Autor="John Green" Gen="ficțiune" Subgen="romance" An="2012" nota="8.6" />
+				<Cautare title="La răscruce de vânturi" />
+				<Book Titlu="La răscruce de vânturi" Autor="Emily Brontë" Gen="ficțiune" Subgen="romance" An="1847" nota="9.7" />
+				<Cautare rating="9.6" />
+				<Cautare rating="9.3" />
+				<Cautare rating="9.7" />
+			</User>
+			<User Username="marioara">
+				<Cautare genre="ficțiune" />
+				<Cautare year="1930" />
+				<Cautare subgenre="romance" />
+				<Cautare genre="poezie" />
+				<Cautare genre="dramă" />
+				<Cautare subgenre="tragedie" />
+				<Cautare subgenre="experiență" />
+				<Cautare subgenre="istoric" />
+				<Download Titlu="Frații Jderi" Autor="Mihail Sadoveanu" Gen="ficțiune" Subgen="istoric" An="1935" />
+				<Book Titlu="Frații Jderi" Autor="Mihail Sadoveanu" Gen="ficțiune" Subgen="istoric" An="1935" nota="7.5" />
+			</User>
+			<User Username="mirabela">
+				<Cautare subgenre="istoric" />
+				<Cautare subgenre="romance" />
+				<Download Titlu="Poezii" Autor="Nichita Stănescu" Gen="poezie" Subgen="elegie" An="1955" />
+				<Download Titlu="Zece negri mititei" Autor="Agatha Christie" Gen="ficțiune" Subgen="mister" An="1939" />
+			</User>
+			<User Username="marian.marcu">
+				<Cautare title="Poezii" />
+				<Download Titlu="Poezii" Autor="Nichita Stănescu" Gen="poezie" Subgen="elegie" An="1955" />
+				<Download Titlu="Zece negri mititei" Autor="Agatha Christie" Gen="ficțiune" Subgen="mister" An="1939" />
+				<Book Titlu="Zece negri mititei" Autor="Agatha Christie" Gen="ficțiune" Subgen="mister" An="1939" nota="10" />
+			</User>
+			<User Username="ana">
+				<Cautare author="Camil Petrescu" />
+				<Cautare genre="ficțiune" />
+				<Cautare subgenre="experimental" />
+				<Cautare isbn="9786063341847" />
+				<Book Titlu="La răscruce de vânturi" Autor="Emily Brontë" Gen="ficțiune" Subgen="romance" An="1847" nota="10" />
+				<Download Titlu="Frații Jderi" Autor="Mihail Sadoveanu" Gen="ficțiune" Subgen="istoric" An="1935" />
+				<Download Titlu="Patul lui Procust" Autor="Camil Petrescu" Gen="ficțiune" Subgen="psihologic" An="1933" />
+				<Book Titlu="Maitreyi" Autor="Mircea Eliade" Gen="ficțiune" Subgen="romance,aventură,experiență,bildungsroman" An="1933" nota="9.6" />
+			</User>
+			<User Username="claudiu.chi">
+				<Cautare year="1930" />
+				<Download Titlu="Ultima noapte de dragoste, întâia noapte de război" Autor="Camil Petrescu" Gen="ficțiune" Subgen="psihologic,romance,război" An="1930" />
+			</User>
+		</Users>
+	</UsersDb>
+</XmlUsers>
